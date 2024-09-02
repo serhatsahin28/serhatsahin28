@@ -1,4 +1,5 @@
- [![MasterHead](http:https://www.iss.nus.edu.sg/images/default-source/default-album/software-dev.jpg?Status=Master&sfvrsn=aa8aa05f_0)
+[![MasterHead](http:![image](https://github.com/user-attachments/assets/bd213751-6230-408e-94d9-18fe24912fe2)
+
 )
 <h1 align="center">Hi 👋, I'm Serhat</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
